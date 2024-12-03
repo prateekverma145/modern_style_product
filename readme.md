@@ -2,8 +2,8 @@
 
 This is a fully functional product page for a modern chair, built with **HTML**, **CSS**, and **JavaScript**. The page features a visually appealing design and interactive elements to provide a seamless user experience.
 
-![Preview](path-to-your-image-on-github) <!-- Replace with the actual path after uploading your screenshot -->
-
+![Preview](./images//ss1.png)
+![Preview](./images//ss2.png)
 ## Features
 
 - Dynamic product details and pricing display.
@@ -25,6 +25,3 @@ This is a fully functional product page for a modern chair, built with **HTML**,
    git clone https://github.com/prateekverma145/modern_style_product.git
 2. Go live 
 
-## screenshot 
-![Alt text](./ss1.png)
-![Alt text](./ss2.png)
